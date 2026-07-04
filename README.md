@@ -1,1 +1,1 @@
-# Transformer-Encoder-for-Text-Classification
+Transformer Encoder for Text Classification
